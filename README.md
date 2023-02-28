@@ -1,3 +1,3 @@
 # 八皇后的作業
 
-## 推上來放著
+main process in src/
